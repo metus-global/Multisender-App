@@ -1,6 +1,6 @@
 {
-  "homepage": "http://noahfigueras.github.io/ERC20-multiSender-App",
-  "name": "client",
+  "homepage": "",
+  "name": "Multisender App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
